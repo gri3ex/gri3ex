@@ -35,8 +35,7 @@ Welcome to my code lab. I am focused on crafting secure backend architectures, b
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yevhenii-moskovskyi-4a3086368/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://vyncro.me"><img src="https://img.shields.io/badge/Vyncro.me-000000?style=for-the-badge&logo=code-alt&logoColor=white" /></a>
-</p>
+  
 
 <details>
 <summary>🔒 Direct Communications Point</summary>
